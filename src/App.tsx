@@ -2,7 +2,7 @@ import styled from "styled-components";
 import "./App.css";
 import { Button } from "./components/Button";
 import { Main } from "./components/Main";
-import { colors } from "./components/Main/model";
+import { colors } from "./components/Main/constatns";
 import { useState } from "react";
 
 const StyledH2 = styled.h2`
